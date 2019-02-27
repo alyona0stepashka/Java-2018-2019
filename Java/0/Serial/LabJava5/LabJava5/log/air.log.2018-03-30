@@ -1,0 +1,6 @@
+30.03.2018  15:15:24 [main] INFO  by.belstu.poit.pakholko.parsers.ValidatorXSD  - files/XML.xmlis valid
+30.03.2018  15:15:26 [main] ERROR by.belstu.poit.pakholko.main.Main  - java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 2
+30.03.2018  15:54:46 [main] INFO  by.belstu.poit.pakholko.parsers.ValidatorXSD  - files/XML.xmlis valid
+30.03.2018  15:54:48 [main] ERROR by.belstu.poit.pakholko.main.Main  - java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 2
+30.03.2018  15:55:13 [main] INFO  by.belstu.poit.pakholko.parsers.ValidatorXSD  - files/XML.xmlis valid
+30.03.2018  15:55:15 [main] ERROR by.belstu.poit.pakholko.main.Main  - java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 2
