@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalcLogic/CalcLogic.iml" filepath="$PROJECT_DIR$/CalcLogic/CalcLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcOutput/CalcOutput.iml" filepath="$PROJECT_DIR$/CalcOutput/CalcOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asd/asd.iml" filepath="$PROJECT_DIR$/asd/asd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/belstu.iml" filepath="$PROJECT_DIR$/belstu.iml" />
+    </modules>
+  </component>
+</project>

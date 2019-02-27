@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="belstu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/belstu_jar</output-path>
+    <root id="archive" name="belstu.jar">
+      <element id="module-output" name="belstu" />
+    </root>
+  </artifact>
+</component>

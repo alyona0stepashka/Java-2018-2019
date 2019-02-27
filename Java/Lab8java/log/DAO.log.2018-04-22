@@ -1,0 +1,210 @@
+22.04.2018 18:37:32 [main] ERROR by.basil.one.Main  - I/O Error: SSO Failed: Native SSPI library not loaded. Check the java.library.path system property.
+22.04.2018 23:34:22 [main] ERROR by.basil.one.Main  - I/O Error: SSO Failed: Native SSPI library not loaded. Check the java.library.path system property.
+22.04.2018 23:37:05 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:37:05 [main] INFO  by.basil.one.Main  - [
+Author{author='?', country='?'}, 
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:37:05 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:37:05 [main] ERROR by.basil.one.Main  - Столбец "author.country" недопустим в списке выбора, поскольку он не содержится ни в агрегатной  функции, ни в предложении GROUP BY.
+22.04.2018 23:44:38 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:44:38 [main] INFO  by.basil.one.Main  - [
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:44:38 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:44:38 [main] ERROR by.basil.one.Main  - Invalid column name country.
+22.04.2018 23:46:18 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:46:18 [main] INFO  by.basil.one.Main  - [
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:46:18 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:46:18 [main] ERROR by.basil.one.Main  - Столбец "author.country" недопустим в списке выбора, поскольку он не содержится ни в агрегатной  функции, ни в предложении GROUP BY.
+22.04.2018 23:46:38 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:46:38 [main] INFO  by.basil.one.Main  - [
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:46:38 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:46:38 [main] ERROR by.basil.one.Main  - Столбец "author.author" недопустим в списке выбора, поскольку он не содержится ни в агрегатной  функции, ни в предложении GROUP BY.
+22.04.2018 23:47:15 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:47:15 [main] INFO  by.basil.one.Main  - [
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:47:15 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:47:15 [main] ERROR by.basil.one.Main  - Столбец "author.author" недопустим в списке выбора, поскольку он не содержится ни в агрегатной  функции, ни в предложении GROUP BY.
+22.04.2018 23:47:24 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:47:24 [main] INFO  by.basil.one.Main  - [
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:47:24 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:47:24 [main] ERROR by.basil.one.Main  - Столбец "author.country" недопустим в списке выбора, поскольку он не содержится ни в агрегатной  функции, ни в предложении GROUP BY.
+22.04.2018 23:49:28 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:49:28 [main] INFO  by.basil.one.Main  - [
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:49:28 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:49:28 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}]
+22.04.2018 23:49:28 [main] INFO  by.basil.one.Main  - Список всех книг
+22.04.2018 23:49:28 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Человек', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=1}, 
+Books{ name_of_book='Вянок', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='Современник', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='ЛитВек', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='LibUk', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='На дне', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=7}, 
+Books{ name_of_book='Чудаки', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=8}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=10}]
+
+22.04.2018 23:49:28 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+22.04.2018 23:49:28 [main] ERROR by.basil.one.Main  - NOW не является известным имя встроенной функции.
+22.04.2018 23:50:43 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:50:43 [main] INFO  by.basil.one.Main  - [
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:50:43 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:50:43 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}]
+22.04.2018 23:50:43 [main] INFO  by.basil.one.Main  - Список всех книг
+22.04.2018 23:50:43 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Человек', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=1}, 
+Books{ name_of_book='Вянок', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='Современник', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='ЛитВек', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='LibUk', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='На дне', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=7}, 
+Books{ name_of_book='Чудаки', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=8}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=10}]
+
+22.04.2018 23:50:43 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+22.04.2018 23:50:43 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='Современник', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='ЛитВек', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='LibUk', publishing_house='LibUk', id_book=5}]
+
+22.04.2018 23:50:43 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+22.04.2018 23:50:43 [main] ERROR by.basil.one.Main  - Use of the executeQuery(String) method is not supported on this type of statement.
+22.04.2018 23:55:50 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:55:50 [main] INFO  by.basil.one.Main  - [
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:55:50 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:55:50 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}]
+22.04.2018 23:55:50 [main] INFO  by.basil.one.Main  - Список всех книг
+22.04.2018 23:55:50 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Человек', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=1}, 
+Books{ name_of_book='Вянок', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='Современник', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='ЛитВек', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='LibUk', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='На дне', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=7}, 
+Books{ name_of_book='Чудаки', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=8}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=10}]
+
+22.04.2018 23:55:50 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+22.04.2018 23:55:50 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='Современник', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='ЛитВек', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='LibUk', publishing_house='LibUk', id_book=5}]
+
+22.04.2018 23:55:50 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+22.04.2018 23:55:50 [main] ERROR by.basil.one.Main  - Use of the executeQuery(String) method is not supported on this type of statement.
+22.04.2018 23:59:19 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:59:19 [main] INFO  by.basil.one.Main  - [
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:59:19 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:59:19 [main] ERROR by.basil.one.Main  - Invalid column name country.
+22.04.2018 23:59:32 [main] INFO  by.basil.one.Main  - All authors
+
+22.04.2018 23:59:32 [main] INFO  by.basil.one.Main  - [
+Author{author='Lui Mark', country='США'}, 
+Author{author='Yakupov Nail', country='Дагестан'}, 
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}, 
+Author{author='Толстой Алексей', country='Россия'}]
+
+22.04.2018 23:59:32 [main] INFO  by.basil.one.Main  - авторы у которых больше 1-ой книги
+22.04.2018 23:59:32 [main] INFO  by.basil.one.Main  - [
+Author{author='Богданович Максим', country='Беларусь'}, 
+Author{author='Горький Максим', country='Россия'}]
+22.04.2018 23:59:32 [main] INFO  by.basil.one.Main  - Список всех книг
+22.04.2018 23:59:33 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Человек', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=1}, 
+Books{ name_of_book='Вянок', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=2}, 
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='Современник', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='ЛитВек', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='LibUk', publishing_house='LibUk', id_book=5}, 
+Books{ name_of_book='Дети солнца', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=6}, 
+Books{ name_of_book='На дне', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=7}, 
+Books{ name_of_book='Чудаки', author='Горький Максим', released='Московская патриархия', publishing_house='Московская патриархия', id_book=8}, 
+Books{ name_of_book='ПРЫЙДЗЕ ВЯСНА', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=9}, 
+Books{ name_of_book='РУСАЛКА', author='Богданович Максим', released='Марцін Кухта', publishing_house='Марцін Кухта', id_book=10}]
+
+22.04.2018 23:59:33 [main] INFO  by.basil.one.Main  - Книги, вышедшие в текущем и прошлом году
+22.04.2018 23:59:33 [main] INFO  by.basil.one.Main  - [
+Books{ name_of_book='Гиперболоид инженера Гарина', author='Толстой Алексей', released='Современник', publishing_house='Современник', id_book=3}, 
+Books{ name_of_book='Мусульмане в космосе', author='Yakupov Nail', released='ЛитВек', publishing_house='ЛитВек', id_book=4}, 
+Books{ name_of_book='James in Boston', author='Lui Mark', released='LibUk', publishing_house='LibUk', id_book=5}]
+
+22.04.2018 23:59:33 [main] INFO  by.basil.one.Main  - Список оставшихся книг после удаления
+22.04.2018 23:59:33 [main] ERROR by.basil.one.Main  - Use of the executeQuery(String) method is not supported on this type of statement.

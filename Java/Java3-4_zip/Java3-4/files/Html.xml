@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<BOOKS>
+    <BOOK>
+        <NAME>1000 лье</NAME>
+        <AUTOR>Жюль верн</AUTOR>
+        <COST> 219 </COST>
+        <PAPERS>778</PAPERS>
+    </BOOK>
+
+    <BOOK>
+        <NAME>Собор парижской богоматери</NAME>
+        <AUTOR>гюго</AUTOR>
+        <COST> 2199 </COST>
+        <PAPERS>1001</PAPERS>
+    </BOOK>
+</BOOKS>

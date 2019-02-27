@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="urn:Test.Namespace"
+        xsi:schemaLocation="urn:Test.Namespace xml.xsd">
+    <name>1000 лье под водой </name>
+    <papers>901</papers>
+    <cost>9778</cost>
+    <autor>Жульверн</autor>
+</Root>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="9.0.1" class="java.beans.XMLDecoder">
+ <object class="by.belstu.poit.pakholko.student.Student">
+  <void property="course">
+   <int>2</int>
+  </void>
+  <void property="name">
+   <string>Alyona</string>
+  </void>
+  <void property="surname">
+   <string>Pakhoko</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="9.0.4" class="java.beans.XMLDecoder">
+ <object class="books.book">
+  <void property="autor">
+   <string>Жьль верн</string>
+  </void>
+  <void property="cost">
+   <int>1200</int>
+  </void>
+  <void property="name">
+   <string>1000 лье под водой</string>
+  </void>
+  <void property="papers">
+   <int>909</int>
+  </void>
+ </object>
+</java>

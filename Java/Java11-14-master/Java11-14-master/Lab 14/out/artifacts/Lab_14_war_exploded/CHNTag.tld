@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<taglib xmlns="http://java.sun.com/xml/ns/javaee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+        version="2.1">
+    <tlib-version>1.0</tlib-version>
+    <short-name>CHNTag</short-name>
+    <uri>CHNTag.tld</uri>
+    <tag>
+        <name>CHNLabtedTextField</name>
+        <tag-class>CHNTags.CHNLabledTextField</tag-class>
+        <body-content>JSP</body-content>
+        <attribute>
+            <name>value</name>
+            <required>false</required>
+            <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+            <name>name</name>
+            <required>true</required>
+            <type>java.lang.String</type>
+        </attribute>
+        <attribute>
+            <name>lable</name>
+            <required>true</required>
+            <type>java.lang.String</type>
+        </attribute>
+    </tag>
+    <tag>
+        <name>CHNSubmit</name>
+        <tag-class>CHNTags.CHNSubmit</tag-class>
+        <body-content>JSP</body-content>
+    </tag>
+    <tag>
+        <name>CHNtable</name>
+        <tag-class>CHNTags.CHNTable</tag-class>
+        <body-content>JSP</body-content>
+    </tag>
+</taglib>
