@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <AirPassenger
+            uid = "1233" higth = "40" length = "70.6 " weith = "37000"
+            rang = "12500" max_speed = "950" count_passangers = "436" model =
+                    "boing">
+    </AirPassenger>
+    <AirUseful
+            uid = "37" higth = "24.5" length = "35.6" weith = "25000"
+            rang = "900" max_speed = "700" loadCapacity ="23000">
+    </AirUseful>
+    <AirMilitary
+            uid = "89" higth = "40" length = "71.6" weith = "45000"
+            rang = "13000" max_speed = "830" equipment = "Pusk">
+    </AirMilitary>
+</book>
